@@ -1,7 +1,7 @@
 # PDF Q&A Chatbot (RAG)
 
 A Retrieval-Augmented Generation (RAG) chatbot that answers questions about any PDF you upload. Built entirely with free tools — great for a resume project.
-
+Link : https://chatbotq-a-tottph7optf2waoopsargv.streamlit.app/
 ## Tech Stack
 - **Embeddings**: `sentence-transformers` (`all-MiniLM-L6-v2`) — runs locally, free
 - **Vector Search**: FAISS — local similarity search
